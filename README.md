@@ -1,5 +1,7 @@
 # Sanbercode-ReactJs-Batch-77
 
+## Tugas 1 — GIT
+
 Data Perserta Bootcamp Digital Skill - ReactJs Frontend Development
 
 1. Nama : Muhammad Al-farisy
