@@ -1,3 +1,7 @@
 # File lokal untuk belajar / development
 02-HTMLCSS/dev.html
 02-HTMLCSS/dev_style.css
+
+# Abaikan folder node_modules di seluruh project React
+node_modules
+tugas-reactjs/node_modules
